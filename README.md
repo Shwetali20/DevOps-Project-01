@@ -59,4 +59,3 @@ Customize the application dependencies mentioned below on AWS EC2 instance and c
 1. As DevOps Engineer login to Private Instances via Bastion Host.
 2. Login to AWS Session Manager and access the EC2 shell from console.
 3. Browse web application from public internet browser using domain name and verify that page loaded
-4. (https://imgur.com/2j7GSPs.png)
